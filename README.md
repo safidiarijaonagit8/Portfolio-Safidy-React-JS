@@ -1,2 +1,0 @@
-# Portfolio Safidy React JS
- 
