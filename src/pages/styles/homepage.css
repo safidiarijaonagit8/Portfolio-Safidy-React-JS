@@ -37,14 +37,14 @@
 }
 
 .homepage-image-container {
-	width: 370px;
-	height: 370px;
+	width: 320px;
+	height: 320px;
 }
 
 .homepage-image-wrapper {
 	overflow: hidden;
 	border-radius: 10%;
-	transform: rotate(3deg);
+	transform: rotate(0deg);
 }
 
 .homepage-image-wrapper img {

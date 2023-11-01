@@ -11,18 +11,19 @@
 }
 
 .work-image {
-	height: 30px;
-	width: 30px;
+	height: 45px;
+	width: 45px;
 	border-radius: 50%;
-	outline: 6px solid white;
+	outline: 2px solid white;
 	box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.25);
+	margin-top: -5px;
 }
 
 .work-title {
 	font-size: 15px;
 	font-weight: 700;
-	padding-left: 20px;
-	margin-top: -3px;
+	padding-left: 30px;
+	margin-top: 2px;
 	color: var(--secondary-color);
 }
 
@@ -31,15 +32,15 @@
 	font-size: 12px;
 	color: var(--secondary-color);
 	padding-top: 22px;
-	padding-left: 50px;
+	padding-left: 70px;
 }
 
 .work-duration {
 	position: absolute;
 	width: 350px;
 	font-size: 12px;
-	padding-top: 20px;
+	padding-top: 22px;
 	text-align: right;
 	color: var(--tertiary-color);
-	padding-left: 100px;
+	padding-left: 90px;
 }

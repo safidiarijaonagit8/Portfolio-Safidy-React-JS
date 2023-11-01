@@ -15,7 +15,7 @@ const INFO = {
 
 	homepage: {
 		title: "Développeur web junior.",
-		description:
+		description:																													/*precisena hoe ireto techno backend de ireto pour le frontend*/
 			"Jeune diplômé en informatique, sortant de l' IT University, en option développement d'application. J'ai un savoir faire sur quelques technologies du web telles que SPRING Framework pour le langage JAVA, SYMFONY Framework pour le langage PHP, REACT JS pour JavaScript  et ASP .NET CORE pour C#. J' oeuvre donc dans le monde du développement en général, application ou site web.",
 			
 	},
@@ -32,10 +32,10 @@ const INFO = {
 		{
 			title: "Gestion de collectes des produits halieutiques",
 			description:
-				"C' est un projet, qu'on peut dire assez grand, qui a pour but d'assurer la gestion de collecte de touts les produits halieutiques, dans tous les districts de Madagascar. Pour la réalisation de ce projet, j'ai utilisé le framework SPRING MVC associé avec Hibernate et la base de données PostgreSQL",
+				"C' est un projet, assez grand, qui a pour but d'assurer la gestion de collecte de touts les produits halieutiques, dans tous les districts de Madagascar. Pour la réalisation de ce projet, j'ai utilisé le framework SPRING MVC associé avec Hibernate et la base de données PostgreSQL",
 			logo: "../springmvc.png",
-			linkText: "Voir sur github",
-			link: "https://github.com/safidiarijaonagit8/gestioncollectesfarany",
+			linkText: "Voir sur github ",
+			link: "https://github.com/safidiarijaonagit8/gestioncollectes",
 		},
 
 		{
@@ -46,30 +46,40 @@ const INFO = {
 			linkText: "Voir sur github",
 			link: "https://github.com/safidiarijaonagit8/SpringBoot-Gestion-Immobilisation",
 		},
+		{
+			title: "Système de réservation pour Vols",
+			description:
+				"C'est un projet qui permet de digitaliser le processus de réservation des vols d'avion. J'ai utlisité le Framework ASP .NET CORE avec Entity Framework Core pour réaliser ce projet. Comme base de données , SQL Server est utilisé. ",
+			logo: "../netcore1.png",
+			linkText: "Voir sur github",
+			link: "https://github.com/safidiarijaonagit8/Systeme-de-Reservation-de-Vol",
+		},
+		{
+			title: "Système de gestion de scolarité",
+			description:
+				"C'est un projet qui gère la scolarité au sein d'une université. Il y a la gestion des candidatures, des étudiants admis et des paramètres au sein de l'établissement. Pour réaliser ce projet , j'ai utilisé Symfony avec MySQL.",
+			logo: "../symfony.png",
+			linkText: "Voir sur github",
+			link: "https://github.com/safidiarijaonagit8/Systeme-de-Gestion-de-Scolarite",
+		},
 
 		{
 			title: "Application sur la fabrication des produits alimentaires",
 			description:
 				" Projet qui gère la fabrication des produits alimentaires, prenant en compte la gestion de stock, l'achat des matières premières, les formules de fabrication de chaque produit, et la vente. Pour la réalisation, j'ai utilisé CodeIgniter avec MySQL",
-			logo: "../codeigniter.png",
+			logo: "../codeigniter-logo.png",
 			linkText: "Voir sur github",
 			link: "https://github.com/safidiarijaonagit8/Appli-fabrication-produits-alimentaires-CodeIgniter-bootstrap-mysql",
 		},
 
-		{
-			title: "Système de réservation pour Vols",
-			description:
-				"",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "Voir sur github",
-			link: "#",
-		},
+		
+		
 
 		{
 			title: "Mon portfolio",
 			description:
 				"Ce projet c' est mon portfolio que vous êtes en train de visiter. Pour la réalisation, j'ai utilisé le framework REACT JS.",
-			logo: "../react.png",
+			logo: "../reactjs.png",
 			linkText: "Voir sur github",
 			link: "https://github.com",
 		},
