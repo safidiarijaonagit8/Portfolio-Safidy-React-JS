@@ -47,7 +47,7 @@ const Projects = () => {
 							J'ai travaillé sur de nombreux projets avec différents cas pratiques durant mon parcours académique jusqu'à aujourd'hui.
 							Ces projets ont été donc réalisé durant mon cursus universitaire et mon stage de fin d' étude. D'autres ont été réalisé durant mon temps libre.
 							<br></br>Je pense donc maitriser totalement la base relative à la programmation et au développement web, en général.<br></br>
-							Vous trouverez ici, quelques unes de mes réalisations avec description et lien github.
+							Vous trouverez ici, une partie de mes réalisations avec description et lien github.
 							<br></br>
 							( Vous trouverez touts mes projets sur Github )
 							

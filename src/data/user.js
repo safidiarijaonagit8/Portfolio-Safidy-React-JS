@@ -81,7 +81,7 @@ const INFO = {
 				"Ce projet c' est mon portfolio que vous êtes en train de visiter. Pour la réalisation, j'ai utilisé le framework REACT JS.",
 			logo: "../reactjs.png",
 			linkText: "Voir sur github",
-			link: "https://github.com",
+			link: "https://github.com/safidiarijaonagit8/Portfolio-Safidy-React-JS",
 		},
 	],
 };
